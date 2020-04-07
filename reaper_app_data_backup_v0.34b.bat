@@ -4,14 +4,14 @@ rem Current Version: 0.34b
 rem
 rem ***Change Log***
 rem ***Add changes here*** Author - changes made - date (MM.DD.YYYY) - start verison # - end version #
-rem Eric Carlson - Initial Release - 04.05.2020 - v0.00a - v0.33a
-rem Eric Carlson - Making Beta Release - 04.05.2020 - v0.33a - v0.34b
+rem hwguyturnsw - Initial Release - 04.05.2020 - v0.00a - v0.33a
+rem hwguyturnsw - Making Beta Release - 04.05.2020 - v0.33a - v0.34b
 rem
 rem ***Update Current Version number when changes made***
 rem
 rem ***Operating Systems Tested***
 rem ***Add OS Tests here*** Tester - OS - Version - (Build #####) - date (MM.DD.YYYY)
-rem Eric Carlson - Windows 10 Pro - Version 1909 - (Build 18363.720) - 04.05.2020
+rem hwguyturnsw - Windows 10 Pro - Version 1909 - (Build 18363.720) - 04.05.2020
 rem
 rem
 
