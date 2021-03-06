@@ -1,5 +1,5 @@
 # Reaper_App_Backup_Restore
-# Current release - v0.35b
+# Current release - v0.36b
 #
 #
 #
@@ -10,3 +10,4 @@
 #
 #Archived releases:
 #v0.34b
+#v0.35b
